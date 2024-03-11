@@ -7,4 +7,4 @@ else:
 if userage <18:
     print('you cannot vote')
 elif userage<18:
-    print('you cannot vote17')
+    print('you cannot vote')
