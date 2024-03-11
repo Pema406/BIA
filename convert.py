@@ -36,3 +36,22 @@ for char in testName:
         result = result + char
     
 print(result)
+# P- 5
+# e -3
+# m - 4
+# a - 1
+result =""
+testName = "Payker"
+for char in testName:
+    if char =="p":
+        result+="5"
+    elif char == "e":
+        result+="3"
+    elif char =="m":
+        result+="4"
+    elif char =="a":
+        result+="1"
+    else:
+        result = result + char
+print(result)
+    
