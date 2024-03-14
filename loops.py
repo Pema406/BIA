@@ -12,16 +12,6 @@ fruits = ['a', 'b', 'c']
 #         print('True from b')
 
 
-
-
-
-
-
-
-
-
-
-
 # # # Iterate over a string
 # greeting = "Hello"
 # for char in greeting:
