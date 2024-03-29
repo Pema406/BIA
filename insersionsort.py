@@ -18,4 +18,4 @@ def insertion_sort(arr):
     return arr
 
 sortedarr = insertion_sort(input_arr) 
-print('sorted:', sortedarr)
+print('sorted:', sortedarr)  
