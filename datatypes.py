@@ -22,7 +22,7 @@ arr1= [1,10]
 arr2= ['thimphu','wangdi']
 arr3= arr2 + arr1
 number_to_check= 2
-result= ""
+result= "" c
 #print(arr3)
 arrvariable = [1,2,3]
 arrvariable.append(4)
